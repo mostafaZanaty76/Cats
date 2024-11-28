@@ -1,0 +1,37 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+/* تنسيق المحتوى */
+#content {
+    /* width: 100%; */
+    background-color: #f3f3f3;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* تنسيق الصورة */
+#content img {
+    width: auto;
+    height: 50vh !important;
+    margin-bottom: 10px;
+}
+
+/* تنسيق العنوان */
+#content h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* تنسيق الفقرة */
+#content p {
+    font-size:20px;
+    /* color: #666; */
+}
